@@ -1,17 +1,17 @@
-# 📊 Power BI - Gráfico de Barras Arredondadas
+# Power BI - Gráfico de Barras Arredondadas
 
 Este repositório contém um exemplo de **gráfico de barras arredondadas** criado no **Power BI** usando o **visual Deneb**.
 
 ---
 
-## 🚀 Visualização
+## Visualização
 Exemplo do gráfico criado no Power BI:
 
 ![Exemplo do Gráfico](https://github.com/JulianaFortunato/powerbi-bar-chart/blob/main/bar_chart.png)
 
 ---
 
-## 🧩 Campos obrigatórios
+## Campos obrigatórios
 Para que o código JSON funcione corretamente, o dataset precisa ter **exatamente estes nomes de campo**:
 
 - **`categorias`** → texto (nominal)  
@@ -151,7 +151,7 @@ Para que o código JSON funcione corretamente, o dataset precisa ter **exatament
     }
   }
 }
-
+```
 ---
 
 ## 📝 Como usar
