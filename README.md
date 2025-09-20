@@ -4,14 +4,14 @@ Este repositório contém um exemplo de **gráfico de barras arredondadas** cria
 
 ---
 
-## Visualização
+## 📊 Visualização
 Exemplo do gráfico criado no Power BI:
 
 ![Exemplo do Gráfico](https://github.com/JulianaFortunato/powerbi-bar-chart/blob/main/bar_chart.png)
 
 ---
 
-## Campos obrigatórios
+## ✅ Campos obrigatórios
 Para que o código JSON funcione corretamente, o dataset precisa ter **exatamente estes nomes de campo**:
 
 - **`categorias`** → texto (nominal)  
