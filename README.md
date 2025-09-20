@@ -157,8 +157,11 @@ Para que o código JSON funcione corretamente, o dataset precisa ter **exatament
 ## 📝 Como usar
 1. Abra o Power BI Desktop.  
 2. Importe o visual **Deneb** do marketplace.  
-3. Copie e cole o código JSON acima no editor do Deneb.  
-4. Substitua o dataset de exemplo pelo seu conjunto de dados.  
+3. Copie e cole o código JSON acima no editor do Deneb.
+4. Certifique-se de que as seguintes opções estejam **marcadas** na aba de settings:
+   - `Expose cross-highlight values for measures`
+   - `Expose cross-filtering values for dataset rows`
+5. Substitua o dataset de exemplo pelo seu conjunto de dados.  
 
 ---
 
